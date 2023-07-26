@@ -15,7 +15,7 @@ At the end of the 1st class session on the cohort 3 Data Analysis Training by in
 5. Data Entry
 
 ## Data Entry
-this task assigned was to create a table of at least 20 names on a row with followind **HEADINGS** as columns
+this task assigned was to create a table of at least 20 names on a row with following **HEADINGS** as columns
 - Employee name
 - Employee id
 - Department
