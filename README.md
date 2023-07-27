@@ -40,3 +40,14 @@ Another aspect of the task was to highlight employee names that starts with the 
 
 
 ![](https://github.com/Joshuasanda/1ST-PROJECT-ON-EXCEL/blob/main/screenshot%203_20230723-165306_Excel.jpg)
+
+  
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
