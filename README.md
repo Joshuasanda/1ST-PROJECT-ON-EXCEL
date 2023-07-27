@@ -15,7 +15,7 @@ At the end of the 1st class session of the cohort 3 Data Analysis Training by in
 5. Data Entry
 
 ## Data Entry
-this task assigned was to create a table of at least 20 names on a row with following **HEADINGS** as columns
+This task assigned was to create a table of at 20 names on a row with following **HEADINGS** as columns
 - Employee name
 - Employee id
 - Department
@@ -24,7 +24,7 @@ this task assigned was to create a table of at least 20 names on a row with foll
 
 ## using the filter command button
 
-i was able to use the filter command button to saparate from the data all employees who are **freelancers** and whose salary rate is above **$10,000**.
+i was able to use the filter command button to saparate from the data all employees who are **freelancers** and whose salary rate is above **$10,000** as shown in the image below.
 
 ![](https://github.com/Joshuasanda/1ST-PROJECT-ON-EXCEL/blob/main/Screenshot%201_20230723-090325_Excel.jpg)
 ---
