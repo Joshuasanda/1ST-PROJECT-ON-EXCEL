@@ -30,13 +30,13 @@ i was able to use the filter command button to saparate from the data all employ
 ---
 ## conditional formatting, text to column command, 
 
-Next activity was to split first name from last name and i acheived this by using the text to column command function on the excel sheet command ribbon, then also used the conditional formmating function to high light duplicate data found within the data on both employee id column and the names column.
+Next activity was to split first name from last name and i acheived this by using the text to column command function on the excel sheet command ribbon, then also used the conditional formatting function to high light duplicate data found within the data on both employee id column and the names column as shown below
 
 
 ![](https://github.com/Joshuasanda/1ST-PROJECT-ON-EXCEL/blob/main/Screenshot%202_20230723-090329_Excel.jpg)
 
 ---
-Another aspect of the task was to highlight employee names that starts with the letter "E" IN yellow and highlight in green **HIGHEST** salary and in "RED" **LOWEST** salary earned. i acheived this also by using within the conditional formmat **highlight cell rules**
+Another aspect of the task was to highlight employee names that starts with the letter "E" IN yellow and highlight in green **HIGHEST** salary and in RED **LOWEST** salary earned. i acheived this also by using within the conditional format **highlight cell rules**
 
 
 ![](https://github.com/Joshuasanda/1ST-PROJECT-ON-EXCEL/blob/main/screenshot%203_20230723-165306_Excel.jpg)
