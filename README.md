@@ -1,4 +1,4 @@
-# 1ST-PROJECT-ON-EXCEL
+# 1ST-TASK-ON-EXCEL
 ## Introduction
 At the end of the 1st class session on the cohort 3 Data Analysis Training by instructor **promise nonso** , we were assigned the task below;
 
